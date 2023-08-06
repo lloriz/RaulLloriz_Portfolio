@@ -1,3 +1,11 @@
+# Python Notebook
+## EDA and Data Preparation with Python
+
+[Notebook](https://github.com/lloriz/RaulLloriz_Portfolio/blob/main/Videogame_Data_Cleaning_and_Visual%5BPYTHON%20%26%20POWER%20BI%5D/clean.ipynb)
+
+
+
+
 # Power BI Dashboard
 ## Presentation according to the platform that we have selected.
 
