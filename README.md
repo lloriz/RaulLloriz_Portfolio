@@ -22,3 +22,8 @@ We prepare the data for its previous interactive visualization with Power BI
    -  **Description:** Data cleaning and Visualization (Popularity Analysis from Spotify Top 50 Chart)
    - **Technologies Used:** The notebooks uses Pandas, Matplotlib and Seaborn for data visualization and word_tokenize to analyze which words are repeated the most in the titles of the most successful songs.
    - **Results:** In the top 50 songs on Spotify, the words that are repeated the most are related to love songs or that can talk about love.
+  
+4. [Loading and Transformation data in Databricks [PySpark](https://github.com/lloriz/RaulLloriz_Portfolio/blob/main/Loading%20and%20Transformation%20data%20in%20Databricks%20%5BPySpark%5D/TransformDataInstance_BB.ipynb)
+   - **Description:** This is a small notebook that I work with daily. On this occasion, it is a loading and transformation of data for later ingestion into databases.
+   - **Technologies Used:** Due to its automation capabilities through Azure Data Factory, Databricks has been chosen to create these ETL processes that will be launched daily by the orchestrator. The code is written with PySpark.
+   - **Results:** We load the raw data provided by the client, perform the relevant transformations and prepare the final Parquet for ingestion into the database.
