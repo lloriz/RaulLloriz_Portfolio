@@ -1,7 +1,7 @@
-# Data Science / Analyst Projects
+# Data Projects
 
 
-Welcome to my data scientist portfolio.
+Welcome to my data portfolio.
 
 In this repository there are several projects that demonstrate my skills working with different amounts of data as well as my level of programming with Python.
 
